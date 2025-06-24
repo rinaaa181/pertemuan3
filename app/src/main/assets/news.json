@@ -1,0 +1,25 @@
+
+{
+  "DATA_NEWS": [
+    {
+      "title_news": "Buah Kiwi",
+      "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh <strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration: underline;\"><em><strong>Project News</strong></em></span></p>",
+      "image_link": "file:///android_asset/buah1.jpeg"
+    },
+    {
+      "title_news": "Buah Pepaya",
+      "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh <strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration: underline;\"><em><strong>Project News</strong></em></span></p>",
+      "image_link": "file:///android_asset/Mangga.jpg"
+    },
+    {
+      "title_news": "Buah Strowbery",
+      "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh <strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration: underline;\"><em><strong>Project News</strong></em></span></p>",
+      "image_link": "file:///android_asset/buah3.webp"
+    },
+    {
+      "title_news": "Buah Alpukat",
+      "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh <strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration: underline;\"><em><strong>Project News</strong></em></span></p>",
+      "image_link": "file:///android_asset/buah4.jpeg"
+    }
+  ]
+}
